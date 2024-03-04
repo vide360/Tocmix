@@ -1,0 +1,64 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_09F8F8CA_098C_EEC6_4199_589EB6B2C1BE.source = https://linktr.ee/tocmix
+LinkBehaviour_0A1251E4_0A9F_3EC3_4195_EA7653A95162.source = https://linktr.ee/tocmix
+LinkBehaviour_0A1251E7_0A9F_3ECD_4187_EDE884597049.source = https://www.facebook.com/tocmix/?locale=pt_BR
+LinkBehaviour_09F8594B_098B_2FC6_4182_72403F26877F.source = https://www.facebook.com/tocmix/?locale=pt_BR
+LinkBehaviour_0A1251E8_0A9F_3EC3_41A1_8D5658C8FD10.source = https://www.google.com/maps/place/Tocmix+Instrumentos+Musicais+%22Praia%22/@-7.1212826,-34.8286734,17z/data=!3m1!4b1!4m6!3m5!1s0x7acdd2e85469bf9:0x408a96d8469b3214!8m2!3d-7.1212879!4d-34.8260985!16s%2Fg%2F11c1pm9vy7?authuser=0&entry=ttu
+LinkBehaviour_09FA7FC2_098F_E2C6_4155_AAC8917522C1.source = https://www.google.com/maps/place/Tocmix+Instrumentos+Musicais+%22Praia%22/@-7.1212826,-34.8286734,17z/data=!3m1!4b1!4m6!3m5!1s0x7acdd2e85469bf9:0x408a96d8469b3214!8m2!3d-7.1212879!4d-34.8260985!16s%2Fg%2F11c1pm9vy7?authuser=0&entry=ttu
+LinkBehaviour_0A1251E5_0A9F_3ECD_4177_C2441D34BAD5.source = https://www.instagram.com/tocmix/
+LinkBehaviour_09F7E911_0984_EF45_41A1_C0C209622B33.source = https://www.instagram.com/tocmix/
+
+## Media
+
+### Audio
+audiores_0A01FBD2_0A7C_E2C7_415E_661514F6E965.mp3Url = media/audio_09FF4B56_0985_23CF_4196_0AD653396C85_pt.mp3
+audiores_9255A357_098F_63CE_4197_F1501F8A93D1.mp3Url = media/audio_93A12266_098F_1DCF_41A3_90DCECC23CD0_pt.mp3
+
+### Image
+imlevel_5585BBEB_0987_22C6_4174_32F173CB54CE.url = media/popup_525EABC0_0984_E2C3_4181_5DC61BAA57C8_pt_0_0.png
+imlevel_5585ABEB_0987_22C6_4191_0A2B4D92EA9A.url = media/popup_525EABC0_0984_E2C3_4181_5DC61BAA57C8_pt_0_1.png
+imlevel_55825BEC_0987_22C2_419C_8149B36499E4.url = media/popup_525EABC0_0984_E2C3_4181_5DC61BAA57C8_pt_0_2.png
+imlevel_605E8BA6_09FC_E34F_4172_0FD8DC252E78.url = media/popup_6561DF89_09FF_2342_418A_E92E6AAE3B8B_pt_0_0.png
+imlevel_6058BBA7_09FC_E34D_4181_CFDC36B0D76B.url = media/popup_6561DF89_09FF_2342_418A_E92E6AAE3B8B_pt_0_1.png
+imlevel_60588BA7_09FC_E34D_417E_BF14DB81C751.url = media/popup_6561DF89_09FF_2342_418A_E92E6AAE3B8B_pt_0_2.png
+
+### Popup Image
+
+### Title
+panorama_0568D5A6_099D_674F_416F_9B05A038BCD0.label = 02
+panorama_029FB966_099D_2FCF_419D_7105965A3B56.label = 03
+panorama_063986FC_0984_E2C2_418D_8DFEDA9190D4.label = 04
+panorama_02986FEC_099D_22C3_418C_B0D8F5C13EEF.label = 05
+panorama_02996D28_099C_E742_419A_43CD07F1F102.label = Fachada
+photo_2D27E15E_0985_1FFE_419B_E32A6BA4C28D.label = Piano jx113
+panorama_02993E80_099C_E543_4183_ABD5CF1ABB80.label = entrada
+
+## Popup
+
+### Body
+htmlText_16827792_0985_2346_4193_F5ECEA3E40AF.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Piano Yamaha JX113</B></SPAN></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><I>Som superior através de maior profundidade e armários tradicionais, o JX113T soa magnífico tocado em qualquer ambiente.</I></SPAN></DIV></BODY></HTML></div>
+
+## Skin
+
+### Image
+Image_09F48FD1_099B_22C2_4190_6AD54690F087_mobile.url = skin/Image_09F48FD1_099B_22C2_4190_6AD54690F087_mobile_pt.png
+Image_09F48FD1_099B_22C2_4190_6AD54690F087.url = skin/Image_09F48FD1_099B_22C2_4190_6AD54690F087_pt.png
+Image_09F5123C_0985_3D43_4192_D5946B2F61DE_mobile.url = skin/Image_09F5123C_0985_3D43_4192_D5946B2F61DE_mobile_pt.png
+Image_09F5123C_0985_3D43_4192_D5946B2F61DE.url = skin/Image_09F5123C_0985_3D43_4192_D5946B2F61DE_pt.png
+Image_09F58A2C_0985_2D42_419B_BEC63AB28CE6_mobile.url = skin/Image_09F58A2C_0985_2D42_419B_BEC63AB28CE6_mobile_pt.png
+Image_09F58A2C_0985_2D42_419B_BEC63AB28CE6.url = skin/Image_09F58A2C_0985_2D42_419B_BEC63AB28CE6_pt.png
+Image_09F5C4FD_0985_26BD_41A2_87F6B9965FEF_mobile.url = skin/Image_09F5C4FD_0985_26BD_41A2_87F6B9965FEF_mobile_pt.png
+Image_09F5C4FD_0985_26BD_41A2_87F6B9965FEF.url = skin/Image_09F5C4FD_0985_26BD_41A2_87F6B9965FEF_pt.png
+Image_0A069B7A_0A87_23C6_4193_A52247BE4D1A_mobile.url = skin/Image_0A069B7A_0A87_23C6_4193_A52247BE4D1A_mobile_pt.png
+Image_0A069B7A_0A87_23C6_4193_A52247BE4D1A.url = skin/Image_0A069B7A_0A87_23C6_4193_A52247BE4D1A_pt.png
+
+## Tour
+
+### Description
+
+### Title
+tour.name = TocMix
