@@ -3,14 +3,14 @@
 ## Action
 
 ### URL
-LinkBehaviour_09F8F8CA_098C_EEC6_4199_589EB6B2C1BE.source = https://linktr.ee/tocmix
 LinkBehaviour_0A1251E4_0A9F_3EC3_4195_EA7653A95162.source = https://linktr.ee/tocmix
-LinkBehaviour_0A1251E7_0A9F_3ECD_4187_EDE884597049.source = https://www.facebook.com/tocmix/?locale=pt_BR
+LinkBehaviour_09F8F8CA_098C_EEC6_4199_589EB6B2C1BE.source = https://linktr.ee/tocmix
 LinkBehaviour_09F8594B_098B_2FC6_4182_72403F26877F.source = https://www.facebook.com/tocmix/?locale=pt_BR
-LinkBehaviour_0A1251E8_0A9F_3EC3_41A1_8D5658C8FD10.source = https://www.google.com/maps/place/Tocmix+Instrumentos+Musicais+%22Praia%22/@-7.1212826,-34.8286734,17z/data=!3m1!4b1!4m6!3m5!1s0x7acdd2e85469bf9:0x408a96d8469b3214!8m2!3d-7.1212879!4d-34.8260985!16s%2Fg%2F11c1pm9vy7?authuser=0&entry=ttu
+LinkBehaviour_0A1251E7_0A9F_3ECD_4187_EDE884597049.source = https://www.facebook.com/tocmix/?locale=pt_BR
 LinkBehaviour_09FA7FC2_098F_E2C6_4155_AAC8917522C1.source = https://www.google.com/maps/place/Tocmix+Instrumentos+Musicais+%22Praia%22/@-7.1212826,-34.8286734,17z/data=!3m1!4b1!4m6!3m5!1s0x7acdd2e85469bf9:0x408a96d8469b3214!8m2!3d-7.1212879!4d-34.8260985!16s%2Fg%2F11c1pm9vy7?authuser=0&entry=ttu
-LinkBehaviour_0A1251E5_0A9F_3ECD_4177_C2441D34BAD5.source = https://www.instagram.com/tocmix/
+LinkBehaviour_0A1251E8_0A9F_3EC3_41A1_8D5658C8FD10.source = https://www.google.com/maps/place/Tocmix+Instrumentos+Musicais+%22Praia%22/@-7.1212826,-34.8286734,17z/data=!3m1!4b1!4m6!3m5!1s0x7acdd2e85469bf9:0x408a96d8469b3214!8m2!3d-7.1212879!4d-34.8260985!16s%2Fg%2F11c1pm9vy7?authuser=0&entry=ttu
 LinkBehaviour_09F7E911_0984_EF45_41A1_C0C209622B33.source = https://www.instagram.com/tocmix/
+LinkBehaviour_0A1251E5_0A9F_3ECD_4177_C2441D34BAD5.source = https://www.instagram.com/tocmix/
 
 ## Media
 
